@@ -53,7 +53,7 @@
    "provides" : {
       "EnvDir" : {
          "file" : "lib/EnvDir.pm",
-         "version" : "0.06"
+         "version" : "0.07"
       },
       "EnvDir::Guard" : {
          "file" : "lib/EnvDir.pm"
@@ -70,7 +70,7 @@
          "web" : "https://github.com/ysasaki/p5-envdir"
       }
    },
-   "version" : "0.06",
+   "version" : "0.07",
    "x_contributors" : [
       "ysasaki <aloelight@gmail.com>"
    ]
