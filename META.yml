@@ -27,7 +27,7 @@ no_index:
 provides:
   EnvDir:
     file: lib/EnvDir.pm
-    version: 0.07
+    version: 0.08
   EnvDir::Guard:
     file: lib/EnvDir.pm
 requires:
@@ -37,6 +37,6 @@ resources:
   bugtracker: https://github.com/ysasaki/p5-envdir/issues
   homepage: https://github.com/ysasaki/p5-envdir
   repository: git://github.com/ysasaki/p5-envdir.git
-version: 0.07
+version: 0.08
 x_contributors:
   - 'ysasaki <aloelight@gmail.com>'
